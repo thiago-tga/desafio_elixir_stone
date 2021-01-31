@@ -1,3 +1,8 @@
+/*
+- Para iniciar o programa crie uma lista de compras e uma lista de emails para serem adicionados a função
+- inicie o terminal e digite node desafio_stone.js para rodar o programa
+*/
+
 var listaCompras = // uma lista de objetos (itens)
 [
     {
